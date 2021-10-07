@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything about good practices in front end techs 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Study ReactJS and SEO
+- 🥅 2021 Goals: Study ReactJS, Redux and SEO
 - ⚡ Fun fact: I love to play games and geek stuffs 
 
 ### Connect with me:
