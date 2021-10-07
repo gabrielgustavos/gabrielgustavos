@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play games and geek stuffs 
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/-React-icon.svg." />][linkedin]
 <br />
 
 ### Connect with me:
