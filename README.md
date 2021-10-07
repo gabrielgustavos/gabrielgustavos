@@ -7,6 +7,10 @@
 - 🥅 2021 Goals: Study ReactJS and SEO
 - ⚡ Fun fact: I love to play games and geek stuffs 
 
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />][linkedin]
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
