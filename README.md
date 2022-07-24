@@ -3,8 +3,11 @@
 ## About me
 
 I’m currently learning everything about good practices, new features, in front end techs that i've been working today. 
+<br>
 My name is Gabriel Silva and i am 20 years old
+<br>
 I currently live in Ribeirão preto, Brazil and i'm looking for my first job as a software engineer
+<br>
 Fun fact: I love to play games, watching movies and tvshow in my free times
 
 ## Connect with me:
