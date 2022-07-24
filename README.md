@@ -7,9 +7,6 @@ My name is Gabriel Silva and i am 20 years old
 I currently live in Ribeirão preto, Brazil and i'm looking for my first job as a software engineer
 Fun fact: I love to play games, watching movies and tvshow in my free times
 
-## Detailed information
-
-
 ## Connect with me:
 
 <p align="left">
