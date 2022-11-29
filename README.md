@@ -4,7 +4,7 @@
 
 I’m currently learning everything about good practices, new features, about front end techs that i've been working today.
 <br>
-My name is Gabriel Silva and i am 20 years old
+My name is Gabriel Silva and i am 21 years old
 <br>
 I currently live in Ribeirão preto, Brazil 
 <br>
