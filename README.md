@@ -6,11 +6,7 @@ I’m currently learning everything about good practices, new features, about fr
 <br>
 My name is Gabriel Silva and i am 21 years old
 <br>
-I currently live in Ribeirão preto, Brazil 
-<br>
-I'm looking for my first job as a software engineer
-<br>
-Fun fact: I love to play games, watching movies and tvshow in my free times
+I currently live in Brazil
 
 ## Connect with me:
 
@@ -27,4 +23,4 @@ Fun fact: I love to play games, watching movies and tvshow in my free times
 
 [![card](https://github-readme-stats.vercel.app/api?username=gabrielgustavos&theme=tokyonight)](https://github.com/gabrielgustavos/)
 
-[![gabrielgustavos](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgustavos&hide=html&layout=compact&theme=tokyonight)](https://github.com/nicolaspereira/)
+[![gabrielgustavos](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgustavos&hide=html&layout=compact&theme=tokyonight)]
