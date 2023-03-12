@@ -8,11 +8,6 @@ My name is Gabriel Silva and i am 21 years old
 <br>
 I currently live in Brazil
 
-## Connect with me:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/gabriel-silva-82898921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-silva-82898921a/" height="30" width="40" /></a>
-</p>
 
 ## Language and tools:
 
