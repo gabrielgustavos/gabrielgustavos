@@ -8,11 +8,7 @@
 
 - 💼 Trabalhei em projetos desafiadores, colaborando com equipes ágeis e contribuindo para o desenvolvimento de soluções inovadoras.
 
-***
-
 ## Language and tools:
-
-<br>
 
 <div style="display: inline_block">
   <img align="center" alt="lyndona-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +18,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
+
+<br>
+<br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=gabrielgustavos&theme=tokyonight)](https://github.com/gabrielgustavos/)
 
