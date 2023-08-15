@@ -1,9 +1,5 @@
 ## Olá, seja bem-vindo(a)!
 
-<div align="center">
-   <h3> Meu nome é Gabriel e atuo com desenvolvimento voltado ao front-end </h3>
-</div>
-
 - 👨‍💻 Desenvolvedor front-end apaixonado por criar experiências digitais incríveis.
 
 - 🎓Atualmente cursando Análise e Desenvolvimento de Sistemas.
